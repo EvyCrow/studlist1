@@ -103,6 +103,7 @@ int main()
                             {
                                 max1 = aver;
                                 ma1 = i;
+                                break;
                             }
                             if (aver < min1)
                             {
@@ -117,6 +118,7 @@ int main()
                             {
                                 max2 = aver;
                                 ma2 = i;
+                                break;
                             }
                             if (aver < min2)
                             {
@@ -131,6 +133,7 @@ int main()
                             {
                                 max3 = aver;
                                 ma3 = i;
+                                break;
                             }
                             if (aver < min3)
                             {
@@ -145,6 +148,7 @@ int main()
                             {
                                 max4 = aver;
                                 ma4 = i;
+                                break;
                             }
                             if (aver < min4)
                             {
@@ -159,6 +163,7 @@ int main()
                             {
                                 max5 = aver;
                                 ma5 = i;
+                                break;
                             }
                             if (aver < min5)
                             {
